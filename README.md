@@ -1,4 +1,4 @@
-# Life_insurence_project
+# Life_insurence_sales_BFSI
 
 Problem Statement: Life Insurance Data
 
